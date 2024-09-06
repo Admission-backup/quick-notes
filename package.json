@@ -12,13 +12,13 @@
     "@rebass/forms": "^4.0.5",
     "aws-amplify": "^1.1.36",
     "aws-amplify-react": "^2.3.12",
-    "formik": "^1.5.8",
+    "formik": "^2.2.9",
     "microphone-stream": "^5.0.1",
     "normalize.css": "^8.0.1",
     "react": "^16.9.0",
     "react-dom": "^16.9.0",
     "react-icons": "^3.7.0",
-    "react-scripts": "3.1.1"
+    "react-scripts": "5.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
